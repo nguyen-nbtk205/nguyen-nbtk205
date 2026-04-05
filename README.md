@@ -1,4 +1,9 @@
-## Hi there 👋
+[🇬🇧 English](#english) | [🇻🇳 Tiếng Việt](#tieng-viet)
+
+<a id="english"></a>
+Hi all! I'm **Nguyen**. 👋
+
+
 
 <!--
 **Nora-205/Nora-205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
