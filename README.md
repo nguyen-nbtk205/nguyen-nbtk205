@@ -1,10 +1,12 @@
-[🇬🇧 English](#english) | [🇻🇳 Tiếng Việt](#tieng-viet)
+<a href="#tieng-viet"><img src="https://flagcdn.com/w20/vn.png" width="20" alt="Tiếng Việt">Tiếng Việt</a> |
+<a href="#english"><img src="https://flagcdn.com/w20/gb.png" width="20" alt="English">English</a>
+
 <a id="tieng-viet"></a>
-## 🇻🇳 Tiếng Việt
+## <img src="https://flagcdn.com/w40/vn.png" width="24" alt="VN"> Tiếng Việt
 Chào các bạn! Mình là **Nguyên**. 👋
 
 <a id="english"></a>
-## 🇬🇧 English
+## <img src="https://flagcdn.com/w40/gb.png" width="24" alt="GB"> English
 Hi all! I'm **Nguyen**. 👋
 
 
