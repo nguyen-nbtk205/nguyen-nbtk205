@@ -1,6 +1,10 @@
 [🇬🇧 English](#english) | [🇻🇳 Tiếng Việt](#tieng-viet)
+<a id="tieng-viet"></a>
+## 🇻🇳 Tiếng Việt
+Chào các bạn! Mình là **Nguyên**. 👋
 
 <a id="english"></a>
+## 🇬🇧 English
 Hi all! I'm **Nguyen**. 👋
 
 
