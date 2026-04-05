@@ -1,5 +1,5 @@
-<a href="#tieng-viet"><img src="https://flagcdn.com/w20/vn.png" width="20" alt="Tiếng Việt">Tiếng Việt</a> |
-<a href="#english"><img src="https://flagcdn.com/w20/gb.png" width="20" alt="English">English</a>
+<a href="#tieng-viet"><img src="https://flagcdn.com/w20/vn.png" width="20" alt="Tiếng Việt"></a>&nbsp;&nbsp;<a href="#tieng-viet">Tiếng Việt</a> | 
+<a href="#english"><img src="https://flagcdn.com/w20/gb.png" width="20" alt="English"></a>&nbsp;&nbsp;<a href="#english">English</a>
 
 <a id="tieng-viet"></a>
 ## <img src="https://flagcdn.com/w40/vn.png" width="24" alt="VN"> Tiếng Việt
