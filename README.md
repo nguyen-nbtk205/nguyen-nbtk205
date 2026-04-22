@@ -1,11 +1,6 @@
 <a href="#tieng-viet"><img src="https://flagcdn.com/w20/vn.png" width="20" alt="Tiếng Việt"></a>&nbsp;&nbsp;<a href="#tieng-viet">Tiếng Việt</a> | 
 <a href="#english"><img src="https://flagcdn.com/w20/gb.png" width="20" alt="English"></a>&nbsp;&nbsp;<a href="#english">English</a>
 
----
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nguyen-nbtk205&color=blue&style=flat-square" alt="Profile views" />
-</div>
-
 <a id="tieng-viet"></a>
 ## <img src="https://flagcdn.com/w40/vn.png" width="24" alt="VN"> Tiếng Việt
 Chào bạn! Mình là **Nguyên**. 👋
@@ -47,3 +42,8 @@ I'm an IT student majoring in **Computer Networks and Data Communications** at *
 📫 **Let's connect:**
 - Email: thieunguyendl2@gmail.com
 - Blog: [nguyen-nbtk205.blogspot.com](https://nguyen-nbtk205.blogspot.com/)
+
+---
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=nguyen-nbtk205&color=blue&style=flat-square" alt="Profile views" />
+</div>
